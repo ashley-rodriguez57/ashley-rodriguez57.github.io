@@ -6,29 +6,29 @@ body.arcade{
     background-image: url(images/arcade.jpg);
 }
 
-p{ /* selector for an element type (all p tags) */
+p{ 
     font-family: "Comic Sans MS";
 }
 
-.citation{ /* selector for all elements with class="citation" */
+.citation{ 
     font-family:Arial, Helvetica, sans-serif;
     font-size: .5em;
     width:90%;
 }
 
-#intro{ /* selector for element with id="intro" */
+#intro{ 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 img{
-    width:30%; /* image element will take up the full width of it's parent element (our div) */
+    width:30%; 
 }
 
 div{
     width:45%;
-    display:inline-block; /* this line lets us position div elements */
-    position:relative; /* lets us change element location relative to default position */
-    left:5%; /* will move element 5% of screen width FROM the left side toward the right */
+    display:inline-block; 
+    position:relative; 
+    left:5%; 
 }
 
 /* we can style invidual instances of class and override other styling */
@@ -39,7 +39,7 @@ div{
 
 h1.whiteBG{
     background-color:white;
-    text-align: center; /* center text inside of the element */
+    text-align: center; 
 }
 
 #shame{
