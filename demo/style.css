@@ -31,21 +31,11 @@ div{
     left:5%; 
 }
 
-/* we can style invidual instances of class and override other styling */
-/* to comment things in or out, highlight and press command / */
-/* .right{ 
-    left:10%;
-} */
-
 h1.whiteBG{
     background-color:white;
     text-align: center; 
 }
 
-#shame{
+#option2{
     border-radius: 8px;
 }
-
-
-body {padding:0; margin:0; background: #e8dad3; font-family:"Comic Sans MS";}
-#arcade {width:20%;}
