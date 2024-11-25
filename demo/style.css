@@ -3,6 +3,10 @@ body{
     background-image: url(https://images.pexels.com/photos/8015135/pexels-photo-8015135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
 }
 
+h1{
+    text-align: center;
+}
+
 p{
     background-color: yellow;
     font-family: "Comic Sans MS";
