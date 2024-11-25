@@ -3,6 +3,10 @@ body{
     background-color: blue;
 }
 
+title{
+    font-family: "Cursive Lucida Handwriting";
+}
+
 h1{
     text-align: center;
 }
