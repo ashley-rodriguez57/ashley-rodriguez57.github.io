@@ -7,7 +7,7 @@ body.arcade{
 }
 
 p{ 
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS"; text-align: center;
 }
 
 .citation{ 
