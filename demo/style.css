@@ -1,5 +1,13 @@
+title{
+    font-family: "Cursive Lucida Handwriting";
+}
+
+h1{
+    text-aglin: center;
+}
+
 body{ 
-    background-color: pink;
+    background-color: white;
 }
 
 body.forest{
@@ -7,7 +15,8 @@ body.forest{
 }
 
 p{ /* selector for an element type (all p tags) */
-    font-family: fantasy;
+    font-family: "Comic Sans MS";
+    text-aglin: center;
 }
 
 .citation{ /* selector for all elements with class="citation" */
