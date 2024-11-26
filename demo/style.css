@@ -31,7 +31,7 @@ p{ /* selector for an element type (all p tags) */
 }
 
 #intro{ /* selector for element with id="intro" */
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Monaco", monospace;
 }
 
 img{
