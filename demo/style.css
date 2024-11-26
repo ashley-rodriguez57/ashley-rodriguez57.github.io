@@ -15,7 +15,7 @@ body.forest{
 }
 
 p{ /* selector for an element type (all p tags) */
-    color: blue;
+    color: #bf9ed9;
     font-family: "Monaco", monospace;
     text-aglin: center;
 }
