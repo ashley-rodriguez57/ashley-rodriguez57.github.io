@@ -1,11 +1,12 @@
 title{
     color: #bf9ed9;
-    font-family: "Cursive Lucida Handwriting";
+    font-family: "Monaco", monospace;
 }
 
 h1{
     color: #bf9ed9;
     text-aglin: center;
+    font-family: "Monaco", monospace;
 }
 
 body{ 
