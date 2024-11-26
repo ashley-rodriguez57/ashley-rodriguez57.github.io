@@ -31,17 +31,10 @@ p{
 }
 
 img{
-    width:50%; 
+    width:30%; 
     border-radius: 8px;
 }
 
-img {
-    width: 100%;
-}
-
-#rollerskating{
-    
-}
 
 div.container {
   text-align: center;
