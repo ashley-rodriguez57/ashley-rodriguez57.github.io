@@ -10,15 +10,11 @@ h1{
     font-family: "Monaco", monospace;
 }
 
-body{ 
+body { 
     background-color: white;
-}
+    text-aglin: center;
 
-body.forest{
-    background-image: url(images/forest.jpg); /* using tag AND class so that we can set a background image just on one page */
-}
-
-p{ /* selector for an element type (all p tags) */
+    p{ /* selector for an element type (all p tags) */
     color: #bf9ed9;
     font-family: "Monaco", monospace;
     text-aglin: center;
