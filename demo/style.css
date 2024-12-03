@@ -1,12 +1,3 @@
-body { 
-    display: flex; 
-    justify-content: center; /* Center horizontally */ 
-    align-items: center; /* Center vertically */ 
-    height: 100vh; /* Make the body full height */ 
-    margin: 0; /* Remove default margin */ 
-} 
-
-
 title{
     color: #bf9ed9;
     text-aglin: center;
@@ -19,11 +10,16 @@ h1{
     font-family: "Monaco", monospace;
 }
 
-body { 
-    background-color: white;
-    text-aglin: center;
 
-    p{ /* selector for an element type (all p tags) */
+body { 
+    display: flex; 
+    justify-content: center; /* Center horizontally */ 
+    align-items: center; /* Center vertically */ 
+    height: 100vh; /* Make the body full height */ 
+    margin: 0; /* Remove default margin */ 
+} 
+
+p{ /* selector for an element type (all p tags) */
     color: #bf9ed9;
     font-family: "Monaco", monospace;
     text-aglin: center;
