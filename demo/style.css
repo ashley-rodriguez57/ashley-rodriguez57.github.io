@@ -19,6 +19,7 @@ body {
     margin: 0; /* Remove default margin */ 
 } 
 
+
 p{ /* selector for an element type (all p tags) */
     color: #bf9ed9;
     font-family: "Monaco", monospace;
