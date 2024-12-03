@@ -1,3 +1,12 @@
+body { 
+    display: flex; 
+    justify-content: center; /* Center horizontally */ 
+    align-items: center; /* Center vertically */ 
+    height: 100vh; /* Make the body full height */ 
+    margin: 0; /* Remove default margin */ 
+} 
+
+
 title{
     color: #bf9ed9;
     text-aglin: center;
