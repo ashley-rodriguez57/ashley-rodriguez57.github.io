@@ -34,20 +34,10 @@ div{
     left:5%; /* will move element 5% of screen width FROM the left side toward the right */
 }
 
-/* we can style invidual instances of class and override other styling */
-/* to comment things in or out, highlight and press command / */
-/* .right{ 
-    left:10%;
-} */
 
 h1.whiteBG{
     background-color:white;
 }
-Body
-    text-align: center; /* Center vertically */ 
-    height: 100vh; /* Make the body full height */ 
-    margin: 0; /* Remove default margin */ 
-} 
 
 
 body { 
