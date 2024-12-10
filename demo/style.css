@@ -4,11 +4,11 @@ p{ /* selector for an element type (all p tags) */
     text-aglin: center;
 }
 
-.citation{ /* selector for all elements with class="citation" */
-    font-family:"Monaco", monospace;
-    font-size: .5em;
-    width:90%;
-}
+
+#title{ 
+    color: #bf9ed9;
+    text-aglin: center;
+    font-family: "Monaco", monospace;
 
 #intro{ 
     color: #bf9ed9;
@@ -20,6 +20,13 @@ img{
     width:75%; /* image element will take up the full width of it's parent element (our div) */
 }
 
+.citation{ /* selector for all elements with class="citation" */
+    font-family:"Monaco", monospace;
+    font-size: .5em;
+    width:90%;
+}
+
+    
 div{
     width:45%;
     display:inline-block; /* this line lets us position div elements */
