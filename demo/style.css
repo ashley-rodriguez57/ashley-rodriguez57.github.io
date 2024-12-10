@@ -1,6 +1,14 @@
 .whiteBG{
     background-color:white;
 
+title {
+    text-color: #bf9ed9;
+  text-aglin: center;
+  font-family: "Monaco", monospace;
+  font-size: 14px;
+}
+    
+    
 body {
   text-color: #bf9ed9;
   text-aglin: center;
