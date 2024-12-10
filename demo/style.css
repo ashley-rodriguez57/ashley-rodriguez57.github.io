@@ -8,6 +8,9 @@
 .center { /* text center */
   text-align: center;
   border: 3px;
+  text-color: #bf9ed9;
+  font-family: "Monaco", monospace;
+  font-size: 15px;
 }
 
 #title{
