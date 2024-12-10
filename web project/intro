@@ -1,1 +1,12 @@
-
+<!DOCTYPE html>
+<html>
+   <h1>
+      <link rel="stylesheet" type="text/css" href="style.css"
+      Hello! You got a letter in the mail! :)
+   </h1>
+   
+   <body>
+       <p>
+          Click the envelope to open it and see whats inside!
+       </p>
+</html>
