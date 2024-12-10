@@ -50,5 +50,12 @@ width: 500px;
 
 .button1 {background-color: #04AA6D;} 
 
+button {
+  background-color: #ED84AA;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
      
 
