@@ -1,12 +1,8 @@
-title{
-    color: #bf9ed9;
-    text-aglin: center;
-    font-family: "Monaco", monospace;
-    font-size: 14px;
-}
-
 body {
   color: #bf9ed9;
+  text-aglin: center;
+  font-family: "Monaco", monospace;
+  font-size: 14px;
 }
 
 .container {
