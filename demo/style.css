@@ -5,18 +5,9 @@ title{
     font-size: 14px;
 }
 
-
-h1{
-    color: #bf9ed9;
-    text-aglin: center;
-    font-family: "Monaco", monospace;
-    font-size: 14px;
+.container {
+  display: flex;
+  justify-content: center;  /* centers horizontally */
+  align-items: center;      /* centers vertically */
+  height: 100vh;            /* full viewport height */
 }
-
- 
-body { 
-    display: flex; 
-    align-items: center; /* Center vertically */ 
-    height: 50vh; /* Make the body full height */ 
-    margin: 0; /* Remove default margin */ 
-} 
