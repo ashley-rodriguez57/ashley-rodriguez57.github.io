@@ -16,8 +16,7 @@ h1{
  
 body { 
     display: flex; 
-    justify-content: center; /* Center horizontally */ 
     align-items: center; /* Center vertically */ 
-    height: 100vh; /* Make the body full height */ 
+    height: 50vh; /* Make the body full height */ 
     margin: 0; /* Remove default margin */ 
 } 
