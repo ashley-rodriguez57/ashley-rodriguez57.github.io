@@ -50,4 +50,9 @@ button {
   border-radius: 5px;
 }
      
-
+#index{
+  color: #A9BFD8;
+  text-align: center;
+  font-family: "Monaco", monospace;
+  font-size: 15px;
+}
