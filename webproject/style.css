@@ -17,6 +17,15 @@ width: 500px;
   font-size: 15px;
 }
 
+#title{
+  color: #8356b9;
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-weight: bold;
+  font-size: 18px;
+  text-shadow: 2px 2px 5px #000;
+}
+
 #intro{
   color: #bf9ed9;
   text-align: center;
@@ -24,13 +33,6 @@ width: 500px;
   font-size: 15px;
 }
         
-#title{
-  color: #8356b9;
-  text-align: center;
-  font-family: "Georgia", serif;
-  font-weight: bold;
-  font-size: 18px;
-}
 
 #button{
   color: #ED84AA;
