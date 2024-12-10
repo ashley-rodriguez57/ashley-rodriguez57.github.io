@@ -10,7 +10,9 @@ p{ /* selector for an element type (all p tags) */
     width:90%;
 }
 
-#intro{ /* selector for element with id="intro" */
+#intro{ 
+    color: #bf9ed9;
+    text-aglin: center;
     font-family: "Monaco", monospace;
 }
 
