@@ -5,6 +5,10 @@ title{
     font-size: 14px;
 }
 
+body {
+  color: #bf9ed9;
+}
+
 .container {
   display: flex;
   justify-content: center;  /* centers horizontally */
