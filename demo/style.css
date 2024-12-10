@@ -12,7 +12,7 @@ h1{
 
 
 body {  
-    align-items: center; /* Center vertically */ 
+    text-align: center; /* Center vertically */ 
     height: 100vh; /* Make the body full height */ 
     margin: 0; /* Remove default margin */ 
 } 
