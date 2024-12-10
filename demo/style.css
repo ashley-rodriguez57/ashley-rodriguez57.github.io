@@ -5,6 +5,7 @@ title{
     font-size: 14px;
 }
 
+
 h1{
     color: #bf9ed9;
     text-aglin: center;
@@ -12,10 +13,11 @@ h1{
     font-size: 14px;
 }
 
-
-body {  
-    text-align: center; /* Center vertically */ 
+ 
+body { 
+    display: flex; 
+    justify-content: center; /* Center horizontally */ 
+    align-items: center; /* Center vertically */ 
     height: 100vh; /* Make the body full height */ 
     margin: 0; /* Remove default margin */ 
 } 
-
