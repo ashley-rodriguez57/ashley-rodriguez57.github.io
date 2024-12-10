@@ -11,9 +11,7 @@ h1{
 }
 
 
-body { 
-    display: flex; 
-    justify-content: center; /* Center horizontally */ 
+body {  
     align-items: center; /* Center vertically */ 
     height: 100vh; /* Make the body full height */ 
     margin: 0; /* Remove default margin */ 
@@ -55,9 +53,4 @@ div{
 
 h1.whiteBG{
     background-color:white;
-    text-align: center; /* center text inside of the element */
-}
-
-#shame{
-    border-radius: 8px;
 }
