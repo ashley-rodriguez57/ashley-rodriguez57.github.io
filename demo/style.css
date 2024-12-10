@@ -1,4 +1,4 @@
-p{ /* selector for an element type (all p tags) */
+p{
     color: #bf9ed9;
     font-family: "Monaco", monospace;
     text-aglin: center;
@@ -40,11 +40,10 @@ h1.whiteBG{
     background-color:white;
 }
 
-
-body { 
-    display: flex; 
-    align-items: center; /* Center vertically */ 
-    height: 50vh; /* Make the body full height */ 
-    margin: 0; /* Remove default margin */ 
-} 
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
 
