@@ -18,6 +18,7 @@ p{ /* selector for an element type (all p tags) */
 
 img{
     width:75%; /* image element will take up the full width of it's parent element (our div) */
+    align-items: center;
 }
 
 .citation{ /* selector for all elements with class="citation" */
