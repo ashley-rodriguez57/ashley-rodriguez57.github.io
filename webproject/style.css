@@ -59,16 +59,6 @@ button {
   font-size: 10px;
 }
 
-.centered-image{
-    display: inline-block;
-}
-
-
-div {
- display: table; 
- margin: 0 auto;
-}
-
 .img-container {
       text-align: center;
 }
