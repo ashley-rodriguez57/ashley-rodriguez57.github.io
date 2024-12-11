@@ -62,3 +62,9 @@ button {
 .centered-image{
     display: inline-block;
 }
+
+
+div {
+ display: table; 
+ margin: 0 auto;
+}
