@@ -58,3 +58,7 @@ button {
   font-family: "Monaco", monospace;
   font-size: 10px;
 }
+
+.centered-image{
+    display: inline-block;
+}
