@@ -68,3 +68,7 @@ div {
  display: table; 
  margin: 0 auto;
 }
+
+.img-container {
+      text-align: center;
+}
