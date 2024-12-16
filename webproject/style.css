@@ -1,29 +1,13 @@
-#center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-.img-center { /* image center */
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-
-img{
-width: 500px;
-img-align: center;
-}
-
 .center { /* text center */
   text-align: center;
   border: 3px;
   text-color: #bf9ed9;
   font-family: "Monaco", monospace;
   font-size: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 #title{
