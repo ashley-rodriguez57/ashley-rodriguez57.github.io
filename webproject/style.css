@@ -1,13 +1,15 @@
+
+img{
+width: 500px;
+img-aglin: center;
+}
+
 .center { /* text center */
   text-align: center;
   border: 3px;
   text-color: #bf9ed9;
   font-family: "Monaco", monospace;
   font-size: 15px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
 #title{
@@ -56,14 +58,27 @@ button {
 }
 
 
+* {
+	box-sizing: border-box;
+}
+.column {
+	float: center;
+	width: 50%;
+	padding: 5px;
+}
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
 section{
-      padding-left:200px;
-      padding-right:200px;
-}	
+      padding-left:120px;
+      padding-right:120px;
+	
 #img1{
       float:left;
 }
 #img2{
       float:right;
 }
-
