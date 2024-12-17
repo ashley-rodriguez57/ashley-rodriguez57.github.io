@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>
+             Final Project
+        </title>
+   </head>
+   
+   <body>
+      <h1>
+      <p id="title" class="center">
+            By Ashley Rodriguez
+      </p>
+      </h1>
 
+      <p id="intro" class="center">
+           Page 1
+      </p>
+
+            
+   </body>
+</html>
