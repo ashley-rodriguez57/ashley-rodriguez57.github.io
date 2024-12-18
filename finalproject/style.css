@@ -14,6 +14,14 @@
   font-size: 20px;
 }
 
+#divider{
+  color: #54529c;
+  text-align: center;
+  font-family: "copperplate", fantasy;
+  font-weight: bold;
+  font-size: 18px;
+}
+
 
 div.gallery {
   border: 1px solid #ccc;
